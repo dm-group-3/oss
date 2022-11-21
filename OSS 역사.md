@@ -93,3 +93,4 @@ OSD 10대 기준:   ① 자유 재배포(Free Redistribution)
 
 https://www.nepla.net/post/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9D%98-%EC%97%AD%EC%82%AC
 https://www.epnc.co.kr/news/articleView.html?idxno=98334
+https://naver.me/FxLxWYTH
