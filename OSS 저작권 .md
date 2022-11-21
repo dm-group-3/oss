@@ -12,7 +12,7 @@ Intellectual property에 관하여
 IPR(지식재산권), 저작권, 특허, 상표권
 -------------
 
-![image](https://user-images.githubusercontent.com/114299918/203060465-eb4ebf2a-8f29-457a-b560-6db296df297b.png)
+![image](https://user-images.githubusercontent.com/114299918/203062904-b202f4b6-9234-444d-a282-7c76908501ec.png)
 
 출처 : https://changun516.tistory.com/109
 
