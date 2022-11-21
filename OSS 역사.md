@@ -71,7 +71,7 @@
 * OSI 단체가 정한 오픈소스 소프트웨어의 기준을 OSD(Open Source Definition)이라 하며, 이 기준을 만족해야만 오픈소스 소프트웨어로 인정받게 된다.
 
 #### ☞ ***OSD란?***
-* 오픈 소스 이니셔티브(OSI)가 발간하는 문서로 공개 소프트웨어(OSS: Open Source Software)의 범위에 포함되는 다양한 종류의 라이선스가 지켜야 할 최소한의 기준을 정의해 놓은 것  
+오픈 소스 이니셔티브(OSI)가 발간하는 문서로 공개 소프트웨어(OSS: Open Source Software)의 범위에 포함되는 다양한 종류의 라이선스가 지켜야 할 최소한의 기준을 정의해 놓은 것  
 ```
 OSD 10대 기준:   ① 자유 재배포(Free Redistribution)   
                  ② 소스 코드(Source Code) 공개   
