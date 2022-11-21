@@ -205,6 +205,24 @@
 - Facebook은 Hack이라는 언어를 개발해서 사용하고 있다. 
   
 - 현 시점에서도 빠르게 성장하여 미국의 상장기업 중 시가총액 5위에 해당하는 기업이 되었다.
+  
+  
+  
+  
+### 출처
+https://sjh836.tistory.com/192
+https://icon-icons.com/ko/%EC%95%84%EC%9D%B4%EC%BD%98/ruby/130842
+https://blog.naver.com/koreais_it/222483840405
+https://blog.naver.com/yours4497/222707972346
+https://blog.naver.com/yeon_2pm/222360251212
+https://icon-icons.com/ko/%EC%95%84%EC%9D%B4%EC%BD%98/vim-%EB%9E%98-%EB%A1%9C%EA%B3%A0/146312
+https://rdcpp.gitbooks.io/what-is-open-source/content/chapter5.html
+https://upload.wikimedia.org/wikipedia/commons/2/28/Chromium_Logo.svg
+https://upload.wikimedia.org/wikipedia/commons/d/d4/Mozillagecko-logo.svg
+https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg
+https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg
+https://namu.wiki/w/FreeBSD
+https://commons.wikimedia.org/wiki/File:Facebook_icon_2013.svg
 
 
 
