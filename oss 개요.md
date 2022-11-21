@@ -1,4 +1,4 @@
-<h1> OSS 개요
+- <h1> OSS 개요
 
 오픈소스란 원래 오픈소스 소프트웨어(Open Source Software, OSS)를 뜻하는 용어입니다. 
 오픈소스 소프트웨어는 공개적으로 액세스할 수 있게 설계되어 누구나 
@@ -10,5 +10,6 @@
 이러한 흐름은 오픈소스 소프트웨어의 가치와 분산된 프로덕션 모델을 활용하여 
 커뮤니티와 업계가 당면한 문제를 해결할 새로운 방법을 찾습니다.
 
-<h1> 출처
-https://www.redhat.com/ko/topics/open-source/what-is-open-source
+- <h1> 출처
+
+ https://www.redhat.com/ko/topics/open-source/what-is-open-source
