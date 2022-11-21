@@ -6,8 +6,6 @@ What is opens source license?
 
 ## 1. 들어가기 앞서
 
-참고 :
-
 Intellectual property에 관하여
 =============
 
