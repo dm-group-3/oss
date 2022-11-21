@@ -76,6 +76,7 @@
                  ④ 원저작자 소스 코드 수정 제한(Integrity of The Author’s Source Code)   
                  ⑤ 사용 대상 차별 금지(No Discrimination Against Persons or Groups)   
                  ⑥ 사용 분야 제한 금지(No Discrimination Against Fields of Endeavor)   
-                 ⑦ 라이선스 배포(Distribution of License) ⑧ 특정 제품 의존성 금지(License Must Not Be Specific to a Product)   
+                 ⑦ 라이선스 배포(Distribution of License)   
+                 ⑧ 특정 제품 의존성 금지(License Must Not Be Specific to a Product)   
                  ⑨ 다른 라이선스 포괄적 수용(License Must Not Contaminate Other Software)   
                  ⑩ 라이선스 기술 중립성(License Must be Technology-Neutral)
