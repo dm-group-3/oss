@@ -318,3 +318,4 @@ https://namu.wiki/w/Linux
 https://namu.wiki/w/Visual%20Studio%20Code
 https://namu.wiki/w/React(라이브러리)
 https://namu.wiki/w/TensorFlow?from=텐서플로우
+https://namu.wiki/w/MySQL
