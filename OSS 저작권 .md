@@ -1,11 +1,6 @@
 OSS  저작권
 =============
 
-What is opens source license?
--------------
-
-## 1. 들어가기 앞서
-
 Intellectual property에 관하여
 =============
 
