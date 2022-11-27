@@ -6,9 +6,9 @@
   <br>
   <br>
 
-  [💬 OSS 개요 💬](https://github.com/dm-group-3/oss/blob/main/oss%20%EA%B0%9C%EC%9A%94.md)<br>
+  [💬 OSS 개요 💬](https://github.com/dm-group-3/oss/blob/main/OSS%20%EA%B0%9C%EC%9A%94.md)<br>
   <br>
-    
+     
   [:book: OSS 역사 :book:](https://github.com/dm-group-3/oss/blob/main/OSS%20%EC%97%AD%EC%82%AC.md)<br>
   <br>
     
