@@ -24,5 +24,5 @@
 
 ## 출처
 
-https://www.redhat.com/ko/topics/open-source/what-is-open-source
+https://www.redhat.com/ko/topics/open-source/what-is-open-source   
 https://security-nanglam.tistory.com/348
