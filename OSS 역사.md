@@ -45,7 +45,7 @@
 
 #### ☞ ***GPL이란?***
 
-![GPL](https://cdn.epnc.co.kr/news/photo/202006/98334_91044_4654.jpg)
+![image](https://cdn.epnc.co.kr/news/photo/202006/98334_91044_4654.jpg)
 ```
 - 자유소프트웨어재단(FSF)이 만든 라이선스로, 가장 까다롭고 소스에 대한 구속력도 높음  
 - GPL의 가장 뚜렷한 특징은 바로 ‘전염성’   
