@@ -60,7 +60,7 @@
 ![image](https://user-images.githubusercontent.com/109512986/203255484-d1936191-2702-47fc-8110-08d3ad87e0e3.png)
 > MySQL image
   
-**1995년에 발표된 오픈 소스 RDBMS이다.  
+**1995년에 발표된 오픈 소스 RDBMS이다.**
   
 - 멀티 스토리지 엔진 방식을 채용하고 있다.
   
