@@ -55,6 +55,18 @@
   - GPU 가속 버전은 GPGPU를 사용해 대량 연산을 빠르게 수행하므로 훨씬 빠르게 동작하게 된다.
     - 그래픽카드가 없으면 사용할 수 없다.
   
+   
+# 🔥 PyTorch
+![image](https://user-images.githubusercontent.com/114299918/204203327-4419d240-051d-4072-91c5-5343b7ed4307.png)
+> PyTorch image
+  
+**2016년에 출시된 토치(Torch) 및 카페2(Caffe2)를 기반으로 한 텐서플로와 유사한 딥러닝 라이브러리이다.**
+  
+- 텐서플로와 마찬가지로, NumPy의 배열을 Tensor로 가져올 수도있고, 이를 쉽게 GPU상에 올려 연산가능하게 한다.
+  
+- PyTorch의 기원이 되는 토치(Torch) 라이브러리는 Lua로 작성된 오픈소스 머신러닝 라이브러리이다.
+  
+- 2016년 4월 토치가 아닌 텐서플로로 개발 프레임워크로의 전환을 발표했다. 
   
 # 🐬 MySQL
 ![image](https://user-images.githubusercontent.com/109512986/203255484-d1936191-2702-47fc-8110-08d3ad87e0e3.png)
